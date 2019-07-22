@@ -21,5 +21,10 @@ namespace Ejemplo1
         {
             MessageBox.Show("HOLA JAJAJA");
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
