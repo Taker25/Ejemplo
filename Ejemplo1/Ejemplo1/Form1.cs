@@ -19,7 +19,7 @@ namespace Ejemplo1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("HOLA JAJAJA");
+            MessageBox.Show("PRUEBA 2");
         }
 
         private void label1_Click(object sender, EventArgs e)
